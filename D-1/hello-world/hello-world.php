@@ -14,6 +14,6 @@ License: GPL
 add_action('init','hello_world');
 function hello_world()
 {
-echo "Hello World";
+echo "Hello World!!!!!";
 }
 ?>
